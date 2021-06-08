@@ -1,2 +1,2 @@
-# CSE330
-464197
+# Baseball Stats Calculator
+
